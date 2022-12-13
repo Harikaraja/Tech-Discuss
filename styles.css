@@ -1,0 +1,31 @@
+.hello a:link {
+    color: Orange;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .hello a:visited {
+    color: rgb(225, 16, 180);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  .hello a:hover {
+    color: rgb(153, 31, 223);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  .hello a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  .footer{
+    min-height:433px;
+  }
+
+  #cat{
+    margin-left: 10%;
+  }

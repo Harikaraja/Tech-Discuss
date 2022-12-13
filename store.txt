@@ -1,0 +1,13 @@
+<div class="form-group">
+                <label for="exampleFormControlSelect2">Rate The Platform</label><br/>
+                <input type="radio" id="1star" name="rating" value="Bike">
+                <label for="vehicle1">&#11088;</label><br>
+                <input type="radio" id="2star" name="rating" value="Car">
+                <label for="vehicle2">&#11088;&#11088;</label><br>
+                <input type="radio" id="3star" name="rating" value="Boat">
+                <label for="vehicle3">&#11088;&#11088;&#11088; </label><br>
+                <input type="radio" id="4star" name="rating" value="Boat">
+                <label for="vehicle3">&#11088;&#11088;&#11088;&#11088; </label><br>
+                <input type="radio" id="5star" name="rating" value="Boat">
+                <label for="vehicle3">&#11088;&#11088;&#11088;&#11088;&#11088;</label><br>
+            </div>
